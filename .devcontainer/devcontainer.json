@@ -1,0 +1,10 @@
+{
+  "name": "AlmaLinux 9 with systemd",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "privileged": true,
+  "overrideCommand": false,
+  "forwardPorts": [10000],
+  "remoteUser": "root"
+}
