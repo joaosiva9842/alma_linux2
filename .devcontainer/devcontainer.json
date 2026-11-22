@@ -6,5 +6,5 @@
   "privileged": true,
   "overrideCommand": false,
   "forwardPorts": [10000],
-  "remoteUser": "root"
+  "remoteUser": "codespace"
 }
